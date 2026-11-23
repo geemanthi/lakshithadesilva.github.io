@@ -28,7 +28,6 @@ sections:
         <img src="p2.jpg" alt="screen reader text" class="center-img" />
         <img src="p3.jpg" alt="screen reader text" class="center-img" />
       
-      
     design:
       columns: "1"
   # - block: collection
